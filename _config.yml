@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fabian van Beveren"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Fabian van Beveren"
 description              : &description "PhD Student in Evolutionary Biology, studying the origin of red secondary plastids"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : fbeveren
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
